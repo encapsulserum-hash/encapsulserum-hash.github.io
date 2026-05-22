@@ -1,0 +1,155 @@
+{
+  "currency": "USD",
+  "products": [
+    {
+      "id": "bpc-pen-5mg",
+      "name": "BPC-157 Pen",
+      "category": "pens",
+      "price": 89,
+      "images": [
+        "https://picsum.photos/seed/bpc-pen-1/800/1000",
+        "https://picsum.photos/seed/bpc-pen-2/800/1000",
+        "https://picsum.photos/seed/bpc-pen-3/800/1000",
+        "https://picsum.photos/seed/bpc-pen-4/800/1000"
+      ],
+      "shortDescription": "Pre-mixed BPC-157 in a precision auto-dosing pen. Pre-set increments for repeatable laboratory measurement.",
+      "longDescription": "BPC-157 (Body Protection Compound) is a synthetic peptide chain of 15 amino acids derived from a sequence found in human gastric juice. This research-grade preparation is supplied in a refrigerated auto-dosing pen for precise, repeatable measurement in laboratory settings. Each pen delivers up to 30 calibrated 0.25mg doses.",
+      "specs": {
+        "purity": "≥99.2%",
+        "size": "5mg / pen",
+        "form": "Acetate, lyophilized then reconstituted",
+        "molecular": "C62H98N16O22",
+        "casNumber": "137525-51-0",
+        "storage": "2–8°C, 28 days after activation"
+      },
+      "stockStatus": "in-stock",
+      "featured": true,
+      "researchOnly": true
+    },
+    {
+      "id": "tb500-pen-10mg",
+      "name": "TB-500 Pen",
+      "category": "pens",
+      "price": 134,
+      "images": [
+        "https://picsum.photos/seed/tb500-pen-1/800/1000",
+        "https://picsum.photos/seed/tb500-pen-2/800/1000",
+        "https://picsum.photos/seed/tb500-pen-3/800/1000",
+        "https://picsum.photos/seed/tb500-pen-4/800/1000"
+      ],
+      "shortDescription": "Thymosin Beta-4 fragment in pre-mixed pen format. Lab-tested for sequence integrity.",
+      "longDescription": "TB-500 is a synthetic 17–amino-acid fragment of the naturally occurring protein Thymosin Beta-4. Supplied in a temperature-stable auto-dosing pen for laboratory research applications. Each unit is shipped with a third-party HPLC purity report referenced by lot number.",
+      "specs": {
+        "purity": "≥98.7%",
+        "size": "10mg / pen",
+        "form": "Acetate salt, pre-reconstituted in BAC water",
+        "molecular": "C212H350N56O78S",
+        "casNumber": "77591-33-4",
+        "storage": "2–8°C, 30 days after activation"
+      },
+      "stockStatus": "in-stock",
+      "featured": true,
+      "researchOnly": true
+    },
+    {
+      "id": "ghk-cu-vial-50mg",
+      "name": "GHK-Cu",
+      "category": "vials",
+      "price": 64,
+      "images": [
+        "https://picsum.photos/seed/ghk-cu-1/800/1000",
+        "https://picsum.photos/seed/ghk-cu-2/800/1000",
+        "https://picsum.photos/seed/ghk-cu-3/800/1000",
+        "https://picsum.photos/seed/ghk-cu-4/800/1000"
+      ],
+      "shortDescription": "Copper tripeptide-1 in lyophilized form. Standard research vial with rubber-sealed crimp closure.",
+      "longDescription": "GHK-Cu is a naturally occurring copper peptide complex composed of glycine, histidine, and lysine. Lyophilized for stability and supplied in a 10mL borosilicate vial with butyl rubber stopper and crimp seal. Reconstitution instructions enclosed.",
+      "specs": {
+        "purity": "≥99.5%",
+        "size": "50mg lyophilized",
+        "form": "Blue lyophilized powder",
+        "molecular": "C14H24CuN6O4",
+        "casNumber": "89030-95-5",
+        "storage": "Room temperature lyophilized; 2–8°C reconstituted"
+      },
+      "stockStatus": "in-stock",
+      "featured": true,
+      "researchOnly": true
+    },
+    {
+      "id": "epithalon-vial-20mg",
+      "name": "Epithalon",
+      "category": "vials",
+      "price": 78,
+      "images": [
+        "https://picsum.photos/seed/epi-1/800/1000",
+        "https://picsum.photos/seed/epi-2/800/1000",
+        "https://picsum.photos/seed/epi-3/800/1000",
+        "https://picsum.photos/seed/epi-4/800/1000"
+      ],
+      "shortDescription": "Tetrapeptide Epitalon, lyophilized. Each lot accompanied by third-party HPLC certification.",
+      "longDescription": "Epithalon (Epitalon) is a synthetic tetrapeptide derived from a polypeptide found in the pineal gland. Supplied lyophilized in a sealed 5mL vial. Independent HPLC purity testing available for every lot — request the COA referenced by your lot number after delivery.",
+      "specs": {
+        "purity": "≥99.1%",
+        "size": "20mg lyophilized",
+        "form": "White lyophilized powder",
+        "molecular": "C14H22N4O9",
+        "casNumber": "307297-39-8",
+        "storage": "Room temperature lyophilized; 2–8°C reconstituted"
+      },
+      "stockStatus": "low",
+      "featured": false,
+      "researchOnly": true
+    },
+    {
+      "id": "bac-water-30ml",
+      "name": "Bacteriostatic Water",
+      "category": "tertiary",
+      "price": 12,
+      "images": [
+        "https://picsum.photos/seed/bac-1/800/1000",
+        "https://picsum.photos/seed/bac-2/800/1000",
+        "https://picsum.photos/seed/bac-3/800/1000",
+        "https://picsum.photos/seed/bac-4/800/1000"
+      ],
+      "shortDescription": "0.9% benzyl alcohol bacteriostatic water for laboratory reconstitution. 30mL multi-dose vial.",
+      "longDescription": "Bacteriostatic Water for Injection containing 0.9% benzyl alcohol as a preservative. Used in laboratory settings for reconstitution of lyophilized peptide compounds. 30mL multi-dose vial with rubber stopper.",
+      "specs": {
+        "purity": "USP-grade",
+        "size": "30mL",
+        "form": "Sterile aqueous solution",
+        "molecular": "H2O + C6H5CH2OH (0.9%)",
+        "casNumber": "7732-18-5",
+        "storage": "Room temperature, 28 days after first puncture"
+      },
+      "stockStatus": "in-stock",
+      "featured": false,
+      "researchOnly": true
+    },
+    {
+      "id": "syringe-pack-100",
+      "name": "Insulin Syringes",
+      "category": "tertiary",
+      "price": 28,
+      "images": [
+        "https://picsum.photos/seed/syr-1/800/1000",
+        "https://picsum.photos/seed/syr-2/800/1000",
+        "https://picsum.photos/seed/syr-3/800/1000",
+        "https://picsum.photos/seed/syr-4/800/1000"
+      ],
+      "shortDescription": "Pack of 100 sterile single-use insulin syringes, 31G x 8mm, 1mL. Lab-grade measurement accuracy.",
+      "longDescription": "100 individually-packaged sterile single-use insulin syringes for accurate laboratory measurement. 31-gauge, 8mm needle length, 1mL barrel with clear markings in 1/100mL increments.",
+      "specs": {
+        "purity": "Sterile, gamma-irradiated",
+        "size": "100 units / pack",
+        "form": "Single-use disposable",
+        "molecular": "—",
+        "casNumber": "—",
+        "storage": "Room temperature, dry"
+      },
+      "stockStatus": "in-stock",
+      "featured": false,
+      "researchOnly": true
+    }
+  ]
+}
